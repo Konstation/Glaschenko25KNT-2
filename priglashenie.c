@@ -7,4 +7,6 @@ printf("Vvedite chislo 1: ");
 scanf("%f",&a);
 printf("Vvedite chislo 2: ");
 scanf("%f",&b);
+printf("Summa: %f + %f = %f\n",a,b,a+b);
+return 0;
 }
